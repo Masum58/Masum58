@@ -1,10 +1,67 @@
-- 👋 Hi, I’m @Masum58
-- 👀 I’m interested in leveraging data to extract meaningful insights and drive informed decision-making.
-- 🌱 I’m currently expanding my knowledge in advanced statistical analysis and machine learning techniques.
-- 💞️ I’m looking to collaborate on  projects that involve data interpretation, visualization, and predictive modeling.
-- 📫 How to reach me Feel free to connect with me at (https://github.com/Masum58) or drop me an email at [masumab72@gmail.com]. Let's explore the world of data together!}
+Hi, I’m Masum Abedin
 
-<!---
-Masum58/Masum58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a professional AI Engineer with real-world experience designing and building production-ready AI backend systems, data-driven applications, and intelligent automation solutions.
+
+I focus on solving practical business problems using machine learning, large language models, and scalable API architectures.
+
+🔍 Core Expertise
+
+Machine Learning & Predictive Modeling for real-world datasets
+
+LLM & AI Agent Systems for automation and decision support
+
+Backend API Development using FastAPI & Python
+
+Data Analysis & Visualization for actionable insights
+
+System Integration & Automation Workflows
+
+🛠️ Technical Stack
+
+Programming: Python, JavaScript
+
+AI / ML: Scikit-learn, Pandas, NumPy, OpenAI API
+
+Backend: FastAPI, RESTful APIs
+
+Data Processing: Jupyter Notebook, CSV/JSON pipelines
+
+Dev Tools: Git, GitHub, Docker (working knowledge)
+
+🚀 Selected Projects
+
+AI Car Price Analysis & Buy Recommendation System
+→ Automated market analysis, profit estimation, and AI-based purchase recommendations
+
+AI Hospital Receptionist
+→ Voice-enabled AI receptionist integrating LLMs and workflow automation
+
+Real Estate AI Backend Platform
+→ API-driven property price analysis and recommendation engine
+
+Olympic Athlete Insights
+→ Large-scale historical data analysis and medal outcome prediction
+
+📌 Current Focus
+
+Developing scalable, production-grade AI backend systems
+
+Enhancing LLM-powered automation and AI agents
+
+Building API-first AI solutions suitable for real business use
+
+🤝 Collaboration
+
+I’m open to collaborating on:
+
+AI & Machine Learning–driven products
+
+Data Science & analytics solutions
+
+AI-powered SaaS platforms and automation systems
+
+📫 Contact
+
+GitHub: https://github.com/Masum58
+
+Email: masumab72@gmail.com
