@@ -1,66 +1,69 @@
-Hi, I’m Masum Abedin
+Masum Abedin
 
-I’m a professional AI Engineer with real-world experience designing and building production-ready AI backend systems, data-driven applications, and intelligent automation solutions.
+AI Systems Engineer focused on designing and building production-grade intelligent systems.
 
-I focus on solving practical business problems using machine learning, large language models, and scalable API architectures.
+I specialize in end-to-end AI architecture — from data processing and model development to scalable backend APIs and deployment. My work centers on solving real business problems using machine learning, LLM-driven systems, and robust infrastructure design.
 
-🔍 Core Expertise
+I approach AI not as isolated models, but as complete, maintainable systems built for scale.
 
-Machine Learning & Predictive Modeling for real-world datasets
+Core Expertise
 
-LLM & AI Agent Systems for automation and decision support
+End-to-end AI system architecture
 
-Backend API Development using FastAPI & Python
+Machine learning model design and evaluation
 
-Data Analysis & Visualization for actionable insights
+LLM-powered automation and AI agents
 
-System Integration & Automation Workflows
+API-first backend development (FastAPI)
 
-🛠️ Technical Stack
+Data pipelines and structured processing
 
-Programming: Python, JavaScript
+Production deployment and system integration
 
-AI / ML: Scikit-learn, Pandas, NumPy, OpenAI API
+Technical Stack
 
-Backend: FastAPI, RESTful APIs
+Languages: Python, JavaScript
+Machine Learning: Scikit-learn, Pandas, NumPy
+LLM Systems: OpenAI API, RAG-based architectures
+Backend: FastAPI, RESTful services
+DevOps: Docker, Git, GitHub
+Data Workflows: Jupyter, structured CSV/JSON pipelines
 
-Data Processing: Jupyter Notebook, CSV/JSON pipelines
+Selected Projects
 
-Dev Tools: Git, GitHub, Docker (working knowledge)
+AI Car Price Intelligence System
+Designed a predictive pricing and profit estimation engine with automated recommendation logic.
 
-🚀 Selected Projects
-
-AI Car Price Analysis & Buy Recommendation System
-→ Automated market analysis, profit estimation, and AI-based purchase recommendations
-
-AI Hospital Receptionist
-→ Voice-enabled AI receptionist integrating LLMs and workflow automation
+AI Hospital Receptionist System
+Architected a voice-enabled LLM workflow system for automated interaction and operational support.
 
 Real Estate AI Backend Platform
-→ API-driven property price analysis and recommendation engine
+Built an API-driven property analysis and recommendation engine with scalable backend design.
 
-Olympic Athlete Insights
-→ Large-scale historical data analysis and medal outcome prediction
+Olympic Athlete Insights Platform
+Developed a large-scale historical data analysis pipeline with predictive modeling components.
 
-📌 Current Focus
+Current Focus
 
-Developing scalable, production-grade AI backend systems
+Designing scalable AI backend systems
 
-Enhancing LLM-powered automation and AI agents
+Building LLM-powered automation architectures
 
-Building API-first AI solutions suitable for real business use
+Improving model evaluation, versioning, and deployment workflows
 
-🤝 Collaboration
+Moving toward production-grade AI system architecture
 
-I’m open to collaborating on:
+Collaboration
 
-AI & Machine Learning–driven products
+Open to collaborating on:
 
-Data Science & analytics solutions
+AI-driven SaaS platforms
 
-AI-powered SaaS platforms and automation systems
+Intelligent automation systems
 
-📫 Contact
+Data-centric backend architectures
+
+Production AI infrastructure projects
 
 GitHub: https://github.com/Masum58
 
