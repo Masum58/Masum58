@@ -63,10 +63,18 @@
   </a>
 </p>
 
-<br>
+<h3 align="left">📊 Statistics</h3>
+<p align="center">
+<a href="https://github.com/Masum58">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masum58&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Masum's Activity Graph"/>
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masum58&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="masum58" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masum58&show_icons=true&locale=en&theme=tokyonight" alt="masum58" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masum58&theme=tokyonight" alt="masum58" /></p>
+<p align="center">
+<a href="https://github.com/Masum58">
+  <img src="https://github-readme-stats.vercel.app/api?username=Masum58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Masum's GitHub Stats" width="48%"/>
+</a>
+<a href="https://github.com/Masum58">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masum58&theme=tokyonight&hide_border=true&background=0D1117" alt="Masum's GitHub Streak" width="48%"/>
+</a>
+</p>
