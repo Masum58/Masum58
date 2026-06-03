@@ -24,9 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/masum58" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="masum abedin" height="35" width="45" /></a>
-<a href="https://github.com/Masum58" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="masum abedin" height="35" width="45" /></a>
-<a href="https://facebook.com/masum58" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="masum abedin" height="35" width="45" /></a>
+<a href="https://www.linkedin.com/in/masum58" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="masum abedin" height="35" width="45" /></a>
+<a href="https://github.com/Masum58" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" alt="masum abedin" height="35" width="45" /></a>
+<a href="https://facebook.com/masum58" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" alt="masum abedin" height="35" width="45" /></a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -72,9 +72,9 @@
 
 <p align="center">
 <a href="https://github.com/Masum58">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masum58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Masum's GitHub Stats" width="48%"/>
+  <img src="./profile-stats/stats.svg" alt="Masum's GitHub Stats" width="48%"/>
 </a>
 <a href="https://github.com/Masum58">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masum58&theme=tokyonight&hide_border=true&background=0D1117" alt="Masum's GitHub Streak" width="48%"/>
+  <img src="./profile-stats/streak.svg" alt="Masum's GitHub Streak" width="48%"/>
 </a>
 </p>
