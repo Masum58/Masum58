@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **AI Systems, Machine Learning, FastAPI, LLM Integration**
 
-- 📫 How to reach me **masumabedins@gmail.com**
+- 📫 How to reach me **masumab72@gmail.com**
 
 - ⚡ Fun fact **`print("I'm not lazy, I'm in energy-saving mode.")`**
 
