@@ -40,6 +40,13 @@ jobs:
           background: 0D1117
           hide-border: true
 
+      - name: Generate GitHub Trophy Card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: 'username=${{ github.repository_owner }}&theme=darkhub&no-frame=true&row=1'
+          path: profile-stats/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"

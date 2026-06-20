@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masum58&label=Profile%20views&color=0e75b6&style=flat" alt="masum58" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masum58&theme=darkhub&no-frame=true&row=1" alt="masum58" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./profile-stats/trophy.svg" alt="masum58" /></a> </p>
 
 - 🔭 I'm currently working on **LLM-powered AI Systems & Intelligent Agents**
 
