@@ -12,6 +12,10 @@ on:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency:
+      group: profile-stats-${{ github.ref }}
+      cancel-in-progress: true
     permissions:
       contents: write
 
@@ -22,24 +26,6 @@ jobs:
       - name: Create profile-stats directory
         run: mkdir -p profile-stats
 
-      - name: Generate GitHub Stats Card
-        uses: soulteary/github-readme-stats-action@v1.0.0
-        with:
-          card: stats
-          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117'
-          path: profile-stats/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate GitHub Streak Stats Card
-        uses: be-next/github-streak-stats-action@v1
-        with:
-          username: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: profile-stats/streak.svg
-          theme: tokyonight
-          background: 0D1117
-          hide-border: true
-
       - name: Generate GitHub Trophy Card
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
@@ -47,10 +33,29 @@ jobs:
           path: profile-stats/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Validate generated cards
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+
+          path = Path("profile-stats/trophy.svg")
+          content = path.read_text(encoding="utf-8")
+          ET.fromstring(content)
+          if any(marker in content.lower() for marker in (
+              "something went wrong", "resource not accessible", "forbidden"
+          )):
+              raise SystemExit(f"Generated card contains an error response: {path}")
+          PY
+
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile-stats/*.svg
-          git commit -m "chore: update github stats cards" || exit 0
+          if git diff --cached --quiet; then
+            echo "No profile stats changed."
+            exit 0
+          fi
+          git commit -m "chore: update github stats cards"
           git push

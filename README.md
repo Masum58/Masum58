@@ -65,16 +65,5 @@
 
 <h3 align="left">📊 Statistics</h3>
 <p align="center">
-<a href="https://github.com/Masum58">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Masum58&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Masum's Activity Graph"/>
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/Masum58">
-  <img src="./profile-stats/stats.svg" alt="Masum's GitHub Stats" width="48%"/>
-</a>
-<a href="https://github.com/Masum58">
-  <img src="./profile-stats/streak.svg" alt="Masum's GitHub Streak" width="48%"/>
-</a>
+  <a href="https://github.com/Masum58">View my live GitHub contributions and activity</a>
 </p>
