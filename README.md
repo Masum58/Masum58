@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masum58&label=Profile%20views&color=0e75b6&style=flat" alt="masum58" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./profile-stats/trophy.svg" alt="masum58" /></a> </p>
-
 - 🔭 I'm currently working on **LLM-powered AI Systems & Intelligent Agents**
 
 - 🌱 I'm currently learning **Advanced Machine Learning, RAG Architectures & AI Deployment**
@@ -49,5 +47,5 @@
 
 <h3 align="left">📊 Statistics</h3>
 <p align="center">
-  <a href="https://github.com/Masum58">View my live GitHub contributions and activity</a>
+  My live contribution activity is available on my <a href="https://github.com/Masum58">GitHub profile</a>.
 </p>
